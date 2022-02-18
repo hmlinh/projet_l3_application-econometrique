@@ -1,4 +1,4 @@
-# projet_l3_application-econometrique
+# Projet L3 : application économétrique
 Un projet en économétrie que j'ai réalisé en L3 à l'UVSQ, en ayant appliqué les méthodes vues en cours sur des données empiriques.
 
 Le travail :
